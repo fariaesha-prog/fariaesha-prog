@@ -1,6 +1,6 @@
 <!-- Banner -->
   <p align="center">
-  <img src="https://imgur.com/XA1ILlx" alt="Banner GIF" width="1280" />
+  <img src="https://i.ibb.co.com/Xr2F74wD/Screenshot-2026-04-09-210016.png" alt="Banner" width="1280" style="border-radius:10px; box-shadow:0px 5px 15px rgba(0,0,0,0.3);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Esha</h1>
