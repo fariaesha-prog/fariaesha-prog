@@ -1,18 +1,16 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-link.com" alt="banner" />
+  <p align="center">
+  <img src="https://imgur.com/XA1ILlx" alt="Banner GIF" width="1280" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Esha</h1>
-<h3 align="center">Computer Science Student | Aspiring Developer</h3>
+<h3 align="center">Computer Science Student | Aspiring Web Developer</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 CSE student from Bangladesh
-- 💡 Interested in AI, Web Development & Cyber Security
-- 🚀 Currently working on Java & building real-world projects
-- 🌱 Exploring modern technologies like Next.js
+I’m a Computer Science Engineering student from Bangladesh, passionate about **AI, Web Development, and Cybersecurity**.  
+I build **real-world projects in Java** and am exploring modern web technologies like **Next.js** to level up my skills.
 
 ---
 
@@ -28,7 +26,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,daisyui,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,python,html,css,react,nextjs,nodejs,express,mysql,mongodb,git,docker,linux,arduino,figma,illustrator,photoshop,sass,tailwind,adobe,alightmotion,capcut" />
 </p>
 
 ---
@@ -37,9 +35,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/fariahalimesha"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://tiktok.com/@fariahalimesha"><img src="https://skillicons.dev/icons?i=twitter" /></a>
    <a href="https://instagram.com/fariahalimesha"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://facebook.com/fariahalim"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://discord.com/users/messynycgirl"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
@@ -50,4 +46,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>## Hi there 👋
+</p>
