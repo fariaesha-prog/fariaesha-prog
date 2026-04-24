@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 I’m a Computer Science Engineering student from Bangladesh, passionate about **AI, Web Development, and Cybersecurity**.  
-I build **real-world projects in Java** and am exploring modern web technologies like **Next.js** to level up my skills.
+Building **real-world projects in Java** and exploring modern web technologies like **Next.js** to level up my skills.
 
 ---
 
@@ -44,6 +44,6 @@ I build **real-world projects in Java** and am exploring modern web technologies
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fariaesha-prog&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
